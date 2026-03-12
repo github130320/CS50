@@ -15,7 +15,7 @@ HARVARDX: CS50'S INTRODUCTION TO COMPUTER SCIENCE
 
 | File | Description |
 | ---  | --- |
-|[0-hello_world.c](0-hello_world.c)| A C code to type hello world |
+|[0-hello_world.c](0x00-hello/0-hello_world.c)| A C code to type hello world |
 |[1-hello_user.c](1-hello_user.c)|promts user to enter their name and prints ```hello, user```.|
 |[2-hi.c](2-hi.c)|A program to print ```H!```. |
 |[3-hi.c](3-hi.c)| Printing ```72``` ```73``` ```33``` using ```Hi!```.|
